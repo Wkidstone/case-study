@@ -1,0 +1,53 @@
+ body{
+  background-color: blueviolet;
+
+ }
+ .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-size: 40px;
+    font-family: 'Pacifico' !important;
+  }
+  .heading_div
+  {
+    background: rgb(171, 103, 200) ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+    float: none;
+    padding: 10px;
+    font-size: 30px;
+  }
+  .heading_div2
+  {
+    font-size: 22px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+.crf{
+position: fixed;
+bottom: 0;
+color: rgb(255, 255, 255);
+width: 100%;
+background-color: gray;
+line-height: 3px;
+text-align: center;
+}
+canvas{
+  border: 5px solid white;
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px gray;
+  margin-top: 160px;
+
+}
+img{
+  width: 1px;
+  height: 200px;
+  position: fixed;
+}
+ 
